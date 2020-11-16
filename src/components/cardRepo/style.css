@@ -1,0 +1,44 @@
+.card-repo{
+    background-color: rgb(59, 57, 57);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    margin-top: 20px;
+    border-radius: 20px;
+    
+}
+
+.container-repo{
+    
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    
+    background-color: rgb(37, 36, 36);
+}
+
+.AiOutlineStar{
+    color: yellow;
+}
+
+.BsUnlock{
+    color: green;
+    
+
+}
+
+.BsLock{
+    color: red;
+}
+
+.padlocks{
+    margin-left: 400px;
+}
+
+.stars-and-status{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
